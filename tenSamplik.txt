@@ -1,0 +1,5 @@
+To jest plik testowy
+Nauka gita
+modyfikacja pliku 1
+modyfikacja pliku 2
+modyfikacja pliku 3
