@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin.DESKTOP-0I6C971\\source\\repos\\projekt1\\projekt1\\projekt1.csproj",
+      "projectUniqueName": "C:\\Users\\admin.DESKTOP-0I6C971\\source\\repos\\projekt\\projekt1\\projekt1\\projekt1.csproj",
       "projectName": "projekt1",
-      "projectPath": "C:\\Users\\admin.DESKTOP-0I6C971\\source\\repos\\projekt1\\projekt1\\projekt1.csproj",
+      "projectPath": "C:\\Users\\admin.DESKTOP-0I6C971\\source\\repos\\projekt\\projekt1\\projekt1\\projekt1.csproj",
       "packagesPath": "C:\\Users\\admin.DESKTOP-0I6C971\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin.DESKTOP-0I6C971\\source\\repos\\projekt1\\projekt1\\obj\\",
+      "outputPath": "C:\\Users\\admin.DESKTOP-0I6C971\\source\\repos\\projekt\\projekt1\\projekt1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
